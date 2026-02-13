@@ -1,26 +1,32 @@
 🏠 House Rental Web Application
+
 A full-stack web application built with the MERN Stack (MongoDB, Express, React, Node.js) that allows users to browse, list, and manage rental properties through a secure and user-friendly interface.
 
 📌 Overview
+
 The House Rental Web Application connects property owners and tenants on a single platform.
 Users can search available houses, view details, and request rentals, while owners can create and manage listings. Admin features allow monitoring and managing system activities.
 
 This project demonstrates real-world full-stack development including authentication, REST APIs, database management, and responsive UI.
 
 🚀 Features
+
 👤 User
+
 Register / Login authentication
 Browse available properties
 View property details
 Send booking/rental requests
 
 🏡 Property Owner
+
 Create property listings
 Upload property images
 Edit/Delete listings
 Manage bookings
 
 🛠 Admin
+
 Manage users
 Manage property listings
 Monitor platform activity
@@ -28,22 +34,26 @@ Monitor platform activity
 🧱 Tech Stack
 
 Frontend
+
 React.js
 Redux (State Management)
 Tailwind / CSS
 
 Backend
+
 Node.js
 Express.js
 Database
 MongoDB
 
 Other Tools
+
 Firebase / Cloudinary (Image Uploads)
 JWT Authentication
 REST APIs
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone Repository
 git clone https://github.com/your-username/house-rental-app.git
 cd house-rental-app
